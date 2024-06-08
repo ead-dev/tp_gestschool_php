@@ -1,0 +1,42 @@
+h1{
+    font-size: 65px;
+}
+
+
+
+.simple{
+    font-weight: 100;
+}
+
+.cover{
+    height: 300px;
+    background-color: #ccc;
+    margin: 10px 15px;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.cover > div{
+    margin: 10px;
+    padding: 10px;
+}
+
+.impair{
+    background: #104610;
+    color: #ececec;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+.impair p{
+    font-size: 22px;
+}
+
+.cover div{
+    overflow: scroll;
+}

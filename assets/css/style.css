@@ -1,0 +1,26 @@
+img.d-block{
+    max-height: 500px;
+}
+
+.entete{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card .service-item{
+    margin-top: 20px !important;
+}
+
+.photo{
+    height: 220px;
+    width: 220px;
+}
+
+.service-text{
+    background-color: #eee;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

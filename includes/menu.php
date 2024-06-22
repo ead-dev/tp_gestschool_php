@@ -13,7 +13,7 @@
           <a class="nav-link" href="/gestschool/modules/etudiants/index.php">ETUDIANTS</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/cyrix/blog/index.php">INSCRIPTIONS</a>
+          <a class="nav-link" href="/gestschool/modules/inscriptions/index.php">INSCRIPTIONS</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/gestschool/modules/filieres/index.php">FILIERES</a>
